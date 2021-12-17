@@ -64,13 +64,12 @@ ul.namefooter, li.namefoot {
     float:left;
     text-decoration:none;
     position: relative;
-
+    font-size: 0.8em;
     
 }
 
 .namefooter {
 float: left;
-margin-left: 1.5em;
 }
 
 
