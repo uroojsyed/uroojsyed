@@ -70,17 +70,19 @@ ul.namefooter, li.namefoot {
 
 .namefooter {
 float: left;
+margin-left: -20px;
 }
 
 
 
 li.social{
-	margin-right: 1.5em;
+	margin-right: 10px;
 }
 
 .social-nav{
-	margin-right: 1.5%;
+    margin-right: 10px;
 }
+
 
 /*
 li.social a img:hover{
