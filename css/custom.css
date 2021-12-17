@@ -41,7 +41,7 @@ footer{
 	position: absolute;
     left: 0;
     bottom: 0;
-    height: 100px;
+    height: 70px;
     width: 100%;
     overflow: hidden;
 }
@@ -49,7 +49,7 @@ footer{
 
 
 ul.social-icons, li.social {
-    margin-top:20px;
+    margin-top:10px;
     list-style: none;
 	float:right;
     text-decoration:none;
@@ -57,6 +57,21 @@ ul.social-icons, li.social {
 
 	
 }
+
+ul.namefooter, li.namefoot {
+    margin-top:10px;
+    list-style: none;
+    float:left;
+    text-decoration:none;
+    position: relative;
+
+    
+}
+
+.namefooter {
+float: left;
+}
+
 
 
 li.social{
@@ -228,6 +243,9 @@ figcaption{
 	margin-bottom: 5%;
 }
 
+.horizontal-rule {
+  border-top: 1px solid lightgrey;
+}
 
 .space{
 	margin-top: 5%;
@@ -648,6 +666,11 @@ font-size: 2.3vw;
 
   padding: 0.5em 1em;
 	
+}
+
+
+btn1:hover {
+    opacity: 0.2;
 }
 
 
