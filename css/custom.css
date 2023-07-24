@@ -48,14 +48,22 @@ footer{
 
 
 
-ul.social-icons, li.social {
+li.social {
     margin-top:10px;
     list-style: none;
-	float:right;
+	float:left;
     text-decoration:none;
-    position: relative;
+    text-align: left;
+    margin-right: 0.5em;
+  
 
 	
+}
+
+.social-icons {
+    text-align: left;
+    float:left;
+    padding-left:0;
 }
 
 ul.namefooter, li.namefoot {
@@ -75,13 +83,6 @@ margin-left: -20px;
 
 
 
-li.social{
-	margin-right: 0.5em;
-}
-
-.social-nav{
-    margin-right: 10px;
-}
 
 
 /*
@@ -473,6 +474,7 @@ path{
 	
 	
 }
+
 
 .blurb{
 	font-family: 'Playfair Display', serif;
